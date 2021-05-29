@@ -6,8 +6,8 @@ The program is in nodejs and is run like this (assuming nodejs is installed):
 -	cd puppet-client
 -	node index.js help
 To run with proxy
--	node index.js <url> <proxy url> <username> <password>
+-	node index.js URL PROXY_URL username password
 
 To run without proxy
--	node index.js <url>
+-	node index.js URL
 
